@@ -21,7 +21,7 @@ In diesem Repository findest du:
 * **Dokumentation:** Details zur Verkabelung (CAT.7), den Dosen und der Hardware-Liste.
 
 ## 📝 Geplante Komponenten (Roadmap)
-- [x] Zentrale: **UniFi Dream Machine**
+- [ ] Zentrale: **UniFi Dream Machine**
 - [ ] WLAN: UniFi Access Points (U6 Series)
 - [ ] Sicherheit: UniFi Protect Kameras (G4/G5 Series)
 - [ ] Infrastruktur: 19" Rack, Patchpanel & strukturierte Verkabelung
