@@ -1,11 +1,23 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="TfSQ9LefhjAypFQD1Bif">
-    <mxGraphModel dx="848" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1484" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dN5_wma568OS6UMlqVBZ-4" edge="1" parent="1" source="dN5_wma568OS6UMlqVBZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" target="dN5_wma568OS6UMlqVBZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dN5_wma568OS6UMlqVBZ-2" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="ISP" vertex="1">
           <mxGeometry height="80" width="120" x="354" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dN5_wma568OS6UMlqVBZ-6" edge="1" parent="1" source="dN5_wma568OS6UMlqVBZ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="dN5_wma568OS6UMlqVBZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dN5_wma568OS6UMlqVBZ-3" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="dN5_wma568OS6UMlqVBZ-5" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="374" y="505" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
